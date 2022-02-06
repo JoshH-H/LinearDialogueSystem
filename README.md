@@ -15,7 +15,7 @@ A custom dialogue manager and interaction system created from scratch to allow m
 ![Screenshot_44](https://user-images.githubusercontent.com/43742155/152684807-79db4bc2-ea5b-49fa-bc27-cab43038a096.png)
 ![Screenshot_45](https://user-images.githubusercontent.com/43742155/152684808-bc665bb7-2510-44fa-a4ab-72765a41f406.png)
 
-## Answer System
+## Scoring System
 As the plan for this system was to score users based on their questions, a scoring system was needed but needed to work in tandem with the dialogue system. This scoring system has direct access to the dialogue script in which the answers are given their maximum and minimum score value it can give. If the user selected the correct answer, the score manager will be given the scoring value for that question and display it on the screen.
 
 ![Screenshot_43_LI](https://user-images.githubusercontent.com/43742155/152684917-6aaecf62-ade7-4e0d-b9c5-285ca7b89dbc.jpg)
