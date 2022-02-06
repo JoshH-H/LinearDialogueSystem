@@ -19,3 +19,12 @@ A custom dialogue manager and interaction system created from scratch to allow m
 As the plan for this system was to score users based on their questions, a scoring system was needed but needed to work in tandem with the dialogue system. This scoring system has direct access to the dialogue script in which the answers are given their maximum and minimum score value it can give. If the user selected the correct answer, the score manager will be given the scoring value for that question and display it on the screen.
 
 ![Screenshot_43_LI](https://user-images.githubusercontent.com/43742155/152684917-6aaecf62-ade7-4e0d-b9c5-285ca7b89dbc.jpg)
+
+# How was it applied?
+
+This system was modified from it's original version to suit the requirements for the game this system was being used for, Retail Rush. The scoring system required changes to suit the variety of different NPC's with different questions yielding different scorign values. With thesed changes, the score system was utilised with an end of encounter page detailing the player score with a graphic detailing score as a progression bar to indicate progress. With the score bar, the score determines the text that appears above the bar. For example, if the player recieves a high score, the text will congradulate the player, as opposed to a lower score giving the user some words of improvement.
+
+![Screenshot_26](https://user-images.githubusercontent.com/43742155/152685469-79060d40-9b2a-41a3-b2ac-e672194a515f.png)
+
+![Screenshot_24](https://user-images.githubusercontent.com/43742155/152685473-323543da-14c3-488e-b1c0-565931714bb5.png)
+
